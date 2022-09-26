@@ -1,8 +1,8 @@
 # WritePresentation-Skilvul
-Tugas Write Presentation-Skilvul
-# **Rangkuman Week 1**
 
-# Command Line Interface (CLI)
+## **Rangkuman Week 1**
+
+## Command Line Interface (CLI)
 Apa itu CLI atau command line interface ?
 yang dimaksud cli tersebut adalah shell yang berbasis teks
 lalu apa itu shell ?
@@ -29,14 +29,14 @@ Terminal Emulator, aplikasi untuk mengakses CLI
 -Sistem operasi Windows & Unix-like menyusun file dan direktori menggunakan struktur yang bentuknya mirip tree
 
 ##PerintahPerintah Untuk CLI
--Pwd = untuk engetahui dimana posisi kita berada atau sedang ada di folder apa kita saat ini
--ls = untuk mengetahui apa saja yang ada di dalam folder saat ini
--cd = untuk berpindah pindah folder dari folder ke folder lain
--touch = untuk membuat sebuah file di dalam folder
--mkdir = untuk membuat sebuah folder baru
--head = untuk melihat beberapa line awal dari sebuah file text
--tail = untuk melihat beberapa line awal dari sebuah file text
--cat = untuk melihat isi sebuah file
--cp = untuk mengcopy sebuah file 
--mv = untuk memindahkan file bisa juga digunakan untuk merename
--rm = untuk menghapus folder ataupun folder
+- Pwd = untuk engetahui dimana posisi kita berada atau sedang ada di folder apa kita saat ini
+- ls = untuk mengetahui apa saja yang ada di dalam folder saat ini
+- cd = untuk berpindah pindah folder dari folder ke folder lain
+- touch = untuk membuat sebuah file di dalam folder
+- mkdir = untuk membuat sebuah folder baru
+- head = untuk melihat beberapa line awal dari sebuah file text
+- tail = untuk melihat beberapa line awal dari sebuah file text
+- cat = untuk melihat isi sebuah file
+- cp = untuk mengcopy sebuah file 
+- mv = untuk memindahkan file bisa juga digunakan untuk merename
+- rm = untuk menghapus folder ataupun folder
