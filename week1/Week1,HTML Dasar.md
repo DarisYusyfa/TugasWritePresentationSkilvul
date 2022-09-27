@@ -52,6 +52,8 @@ Html adalh singkatan dari hyper text markup language yang mana html ini bisa dii
   &nbsp;
 
   Contoh tag HTML
+    
+    ![](gambar/tebalmiring.png)
 
   - Tag untuk membuat tulisan tebal dan miring
 
