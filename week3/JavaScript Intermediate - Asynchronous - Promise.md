@@ -10,14 +10,14 @@ setTimeout(() => {
   console.log("Callback function fired");
 }, 2000);
 
-console.log("End");
+console.log("End"
 Contoh Asynchronous JavaScript dengan Callback
 console.log("Start");
 
 function getUser(id, callback) {
   setTimeout(() => {
     console.log("Reading a user from a database...");
-    callback({ id: id, gitHubUsername: "ersankarimi" });
+    callback({ id: id, gitHubUsername: "darisyusyfa" });
   }, 2000);
 }
 
@@ -61,7 +61,7 @@ function getUser(id) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       console.log("Reading a user from a database...");
-      resolve({ id: id, gitHubUsername: "ersankarimi" });
+      resolve({ id: id, gitHubUsername: "Daris" });
     }, 2000);
   });
 }
